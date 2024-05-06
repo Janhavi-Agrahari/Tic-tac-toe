@@ -1,6 +1,6 @@
 # Tic-tac-toe
 
-This repository contains a simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
+Experience classic fun with our HTML/CSS/JavaScript Tic Tac Toe game. Simple, addictive, and ready for endless matches!
 
 # How to Play:
 
